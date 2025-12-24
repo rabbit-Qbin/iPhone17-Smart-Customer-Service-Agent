@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# 环境
+.env
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 日志
+output/*.log
+output/.*lock
+
+# 数据库（可选：如果想保留知识库就注释掉）
+# chromaDB/
+
+# 系统文件
+.DS_Store
+Thumbs.db
